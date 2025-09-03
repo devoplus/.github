@@ -1,7 +1,7 @@
 # Devoplus ♥ Open Source
-Devoplus ekibi olarak açık kaynağı yalnızca kullanmayız; geliştirir ve topluluğa geri veririz.
+Devoplus ekibi olarak açık kaynağı yalnızca kullanan tarafta değiliz. Açık kaynak projeler geliştiriyor ve topluluğa geri veriyoruz.
 
-Kullandığımız projelere düzenli katkı verir, genelleştirilebilir iç araçlarımızı uygun olduğunda özgür lisanslarla yayımlarız.
+Kullandığımız projelere düzenli katkı verip, genelleştirilebilir iç araçlarımızı uygun olduğunda özgür lisanslarla yayımlıyoruz.
 
 ### Nasıl katkı veriyoruz?
 - Kullandığımız projelere düzenli olarak PR/issue, performans ve güvenlik düzeltmeleri yapıyoruz.
